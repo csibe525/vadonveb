@@ -1,0 +1,28 @@
+﻿content:
+Fedezd fel a vadont sok éves terepi vezetői tapasztalattal rendelkező csapatunkkal. Az alábbi terepi programok közül választhatsz, de ha téged kizárólag a gömbsoklábúak, ugróvillások, vagy tevenyakú fátyolkák érdekelnek, akkor is bátran keress bennünket.
+Programjaink fél napos (4 óra) vagy egész napos (7-8 óra) időtartammal is kérhetőek.
+fs:
+A fél napos túra 1-5 főig: 10.000 Ft/csoport, minden további személy részvételi díja 2000 Ft.
+Az egész napos túra 1-5 főig: 20.000 Ft/csoport, minden további személy részvételi díja 4000 Ft.
+8 éves korig a részvétel ingyenes.
+!fq:
+Egy alkalommal maximum 20 fő részére tartunk programot.
+Túráinkon az alábbi felszerelés feltétlenül szükséges: edzőcipő vagy túrabakancs, esőkabát, elegendő ivóvíz.
+A túrák nehézségi fokát a résztvevőkkel egyeztetve, a résztvevők felkészültségének megfelelően alakítjuk ki. A közepes és nehéz túrák esetén elengedhetetlen a jó (edzett) fizikai kondíció és a kiváló egészségi állapot.
+!q:
+tiles:
+pict:1.jpg
+title:Természetismereti túra
+content:
+Ez a túra nem csupán arról szól, hogy megismerd a meglátogatott területen élő állat-és növényfajokat, hanem természetvédelmi vonatkozásokra is rámutatunk és felnyitjuk a szemed azokra az összefüggésekre, amelyek a felületes szemlélők számára rejtve maradnak.
+!q:
+pict:2.jpg
+title:Tematikus programok
+content:
+Egy-egy témára fókuszáló programjainkon megismerheted egy hegyi patak vagy akár pocsolya élővilágát, megtanulhatod felismerni a madárhangokat, megtudhatod mitől erdő az erdő, elmerülhetsz a holtfák világában, feltárhatod a talajban rejlő nyüzsgő vadont, vagy részt vehetsz egy izgalmas nyomozáson, amely során együtt derítjük ki, milyen állatok jártak előttünk az úton.
+!q:
+pict:3.jpg
+title:Túlélő túra
+content:
+Ezen a túránkon elsajátíthatod a legalapvetőbb túlélési technikákat: mi legyen a hátizsákodban, hogyan kelj át száraz lábbal egy patakon kötél segítségével, hogyan nyerj ivóvizet, hogyan készíthetsz száraz fekhelyet vagy hordágyat, melyek az ehető növények és általában hogyan tájékozódhatsz okostelefon és navigáció nélkül.
+!q:

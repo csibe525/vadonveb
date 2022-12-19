@@ -1,0 +1,60 @@
+﻿content:
+A Talpalatnyi Vadon elődje a Gyermekek Világöröksége Alapítvány. A Gyermekek Világöröksége azzal az elképzeléssel jött létre, hogy a vadon darabkáit, ezek megőrzését a gyermekekre bízza. A megőrzött természeti kincsekből és őrzőikből pedig felépít egy természeti környezetért felelős, együttműködő tagokból álló társadalmat a világháló felhasználásával. A bevont kisdiákok örökbe fogadnak egy-egy területet, és vigyáznak rá. A sok-sok kicsi vadonból pedig előbb-utóbb összefüggő védett területek, ökológiai folyosók és ezek kiterjedt hálózatai lesznek.
+A megújult Alapítvány az eredeti elképzelést viszi tovább eltérő hangsúlyokkal: az élővilág számára megőrzött és visszaadott vadon-darabkák összefüggő hálózattá fejlesztése lett legfontosabb célunk.
+!q:
+alcim:Csapatunk
+content:
+Az Alapítvány tagjai és önkéntesei színes palettát alkotnak kacskaringós életútjaikkal, változatos múltjukkal, tudásukkal, képességeikkel. Van azonban egy közös szenvedélyük: a természet szeretete.
+!q:
+tiles:
+pict:Nadin.jpg
+title:Fadel Nadin
+content:
+Biológus-ökológus, pedagógiai asszisztens. Számtalan természetvédelmi akcióban vett részt szervezőként, önkéntesként. Sokéves gyakorlattal rendelkezik a természetmegőrzési célú állapotfelmérés és a természetvédelmi élőhelykezelés terén, az állami természetvédelem berkeiben is több éves tapasztalatot szerzett. Jelenlegi fókusz: környezeti nevelés, érzékenyítés.
+!q:
+pict:Lilla.jpg
+title:Juhász Lilla
+content:
+Az Alapítvány jelenlegi elnöke. Természetkutató, környezeti nevelő, természetvédelmi aktivista sok éves tapasztalattal. Évek óta foglalkozik élővilág-monitoringgal, akciók szervezésével és természetvédelmi célú élőhelykezeléssel. Több cikk és kiadvány szerzője. Jelenlegi fókusz: vizes élőhelyek, nádasok élővilága, madármonitoring.
+!q:
+pict:Karikator.jpg
+title:Mekkey Péter
+content:
+Korábbi elnökünk, nyugdíjas hajógépész-üzemmérnök, vízitúra-vezető. Több évtizedes környezeti nevelési tapasztalattal rendelkezik. Természetvédelmi aktivista, számos akció és rendezvény szervezője, résztvevője. Sok éve szervez és vesz részt folyótisztító-akciókon, illetve parlagi sas élőhelymegőrzési akciókban és monitoringban. Jelenlegi fókusz: madármonitoring.
+!q:
+pict:Balazs.jpg
+title:Csitneki Balázs
+content:
+Informatikus-programozó, asztalos, kütyü-szakértő, ezermester, túravezető, alapítványunk rendíthetetlen önkéntese, akinek köszönhetően mind az eszközeink, mind a logisztika működik. Nincs olyan magas fészek, amit ne tudna bekamerázni, nincs olyan életnyom, amit ne találna meg.
+!q:
+pict:Alexa.jpg
+title:Zsolnai Alexandra
+content:
+Gyermekkorát faiskolában, fiatalkorát kertészeti iskolában töltötte, virágkötő és tanító természetismereti továbbképzéssel. Célja: minél több iskolában konyhakertet kialakítani,hogy közelebb hozhassa a gyermekekhez a természet nagyszerűségét, és előtérbe helyezze a vegyszermentes megoldások megismertetését.
+!q:
+pict:Bea.jpg
+title:Kis-Benedek Beáta
+content:
+Vízellátás-csatornázási szakmérnök, humánökológus, a természet és a környezet barátja. 20 éven keresztül a környezetvédelmi hatóság köztisztviselőjeként a felszíni vizek minőségi és mennyiségi védelme érdekében tevékenykedett. Fanatikus rajongója az állatok és a növények életével és védelmével foglalkozó dokumentumfilmeknek. Jelenlegi fókusz: madármonitoring.
+!q:
+pict:Ildi.jpg
+title:Szabó Ildikó
+content:
+Egészségfejlesztő terapeuta, pedagógiai asszisztens. Segítőként sok éve vesz részt aktívan az ökotudatos életmód kialakításában, természetvédelmi akciókban pedig szervezőként és önkéntesként tevékenykedik. A biodiverzitás megőrzéséért rendezvényeket szervez, évek óta  folyótisztítási és egyéb szemétszedő akciók szervezője és résztvevője. Jelenlegi fókusz: agroökológia, vizes élőhelyek.
+!q:
+pict:Bogi.jpg
+title:Csitneki Boglárka
+content:
+Gimnazista diák, lelkes természetvédő, az Alapítvány önkéntese. Kisiskolás kora óta népszerűsíti a környezettudatos életmódot kortársai körében. Segítőként gyakran vesz részt természetvédelmi akciókban, madárgyűrűzésben és monitoringban is. Mindemellett Balázs egyik lánya. Jelenlegi fókusz: madármonitoring, etológia, a természetvédelem népszerűsítése.
+!q:
+pict:Lisa.jpg
+title:Lisa Baskett
+content:
+Lisa odaadó, vérbeli és hivatásos önkéntes: ideje nagy részét terepi vagy irodai munkával tölti. Sok éve fókamentéssel és visszavadítással foglalkozik Kanadában, de részt vesz nemzetközi projektekben is. Jelenlegi fókusz: az ember vadvilágra gyakorolt hatásaival kapcsolatos szemléletformálás.
+!q:
+pict:Boti1.jpg
+title:Csitneki Botond
+content:
+Botond gimnazista diákként rengeteg időt tölt azzal, hogy technikai segítséget nyújtson az Alapítvány mindennapi működése, monitoring programjai számára. Környezettudatosságával évek óta igyekszik formálni a környezetében élők gondolkodásmódját is.
+Jelenlegi fókusz: környezetvédelem és infotechnológiák a természetvédelem szolgálatában.
+!q:

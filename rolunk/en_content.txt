@@ -1,0 +1,61 @@
+content:
+Our predecessor, the Foundation for the World Heritage of Children had the mission to entrust the remaining wild places to the next generations. The young guardians would build up an eco-conscious and responsible society and connect the small preserved natural areas into a more extensive protected wild land.
+The renewed Foundation pursues the same original goals, but with different accents: connecting as many preserved and rewilded areas as possible has become the main target.
+!q:
+alcim:Our team
+content:
+The members and volunteers of the Foundation create a colorful palette of backgrounds, experiences, skills. However, they have a shared passion: the love of nature.
+!q:
+tiles:
+pict:Nadin.jpg
+title:Fadel Nadin
+content:
+Biologist-ecologist, educational assistant. She has taken part as an organizer or as a volunteer in a great number of actions for nature conservation. Nadin is experienced in habitat-assessment and management and gained several years of experience in the state institutions for nature conservation. Current concern: environmental education, sensitization. 
+!q:
+pict:Lilla.jpg
+title:Juhász Lilla
+content:
+The current leader of the Foundation. Lilla is a nature-researcher, environmental educator and activist with several years of experience. For many years she has been very active in wildlife-monitoring, organizing actions for nature conservation and in habitat-management. She is author of several articles and publications. Her current concern: wetlands, reedbed fauna, bird monitoring.
+!q:
+pict:Karikator.jpg
+title:Mekkey Péter
+content:
+The previous leader of the Foundation, a now retired engine-mechanic and shipping operation engineer and river trip guide. He has tremendous experience in environmental education, volunteering and organizing actions for nature conservation. He has organized and taken part in river cleaning actions since 2004. Péter has been part of nest-guarding actions and monitoring for several years and his current field of interest is bird monitoring.
+!q:
+pict:Balazs.jpg
+title:Csitneki Balázs
+content:
+Informatics-programmer, carpenter, gadget-expert, DIYer and troubleshooter. He is a trip guide and a devoted volunteer of the Foundation, who makes all our equipment and logistics work. No nest is too high for him to monitor, and no tracks can hide from his eagle eyes. Current concern: observation, monitoring technologies. 
+!q:
+pict:Alexa.jpg
+title:Zsolnai Alexandra
+content:
+Florist and teacher with advanced nature studies. She spent her childhood in a garden nursery and early years in horticulture. Her mission is to create yard vegetable garden in nearby schools in order to bring children closer to environmentally-friendly gardening and housekeeping. 
+!q:
+pict:Bea.jpg
+title:Kis-Benedek Beáta
+content:
+Water-supply and sewerage engineer, human ecologist and passionate friend of nature. For 20 years she worked to preserve the quality and quantity of surface waters as an employee of the environment authority. She is a devoted fan of documentaries dealing with the life of plants and animals. Current field of interest: bird monitoring.
+!q:
+pict:Ildi.jpg
+title:Szabó Ildikó
+content:
+Health-promotion therapist, educational assistant. For many years, she has been working to encourage eco-lifestyles. She was organizer of and participant in actions for nature conservation and for environment protection (particularly river cleaning actions) several times. She organizes events for supporting biodiversity. Current interest: agro-ecology and wetlands.
+!q:
+pict:Bogi.jpg
+title:Csitneki Boglárka
+content:
+High-school student, ardent nature conservationist and volunteer of the Foundation. From her early childhood she has been promoting environment-friendly lifestyles among her peers. So far she has volunteered many actions for nature protection, bird-tagging and monitoring activities, inspired by her father Balázs. Current field of interest: bird monitoring, ethology, awareness-raising.
+!q:
+pict:Lisa.jpg
+title:Lisa Baskett
+content:
+Lisa is enthusiastic about volunteer work and has contributed her time to a variety of organizations and charities, either in the field or with office support. She has devoted many years to wildlife rescue and rehabilitation in Canada and is enjoying the opportunity to help in more international environmental causes. Her current interest is spreading awareness of human impact on wildlife.
+!q:
+pict:Boti1.jpg
+title:Csitneki Botond
+content:
+Botond is a high school student. He's giving ongoing technical support in the foundation's everyday running and field monitoring actions.
+He's been trying to raise awareness in his surroundings for several years now.
+Current concern: environmental protection and IT technologies.
+!q:

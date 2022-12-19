@@ -1,0 +1,18 @@
+#ignored files
+error_log
+*.png
+*.PNG
+*.jpg
+*.JPG
+
+# ignored folders
+atlathatosag/
+bg-pict/
+fonts/
+icons/
+js/
+logos/
+pict/
+stat/
+text-bg/
+tvt.del/

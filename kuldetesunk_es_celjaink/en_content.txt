@@ -1,0 +1,41 @@
+﻿content:
+Our Foundation works to preserve the diversity of our natural environment by rewilding, protecting and connecting habitats and rehabilitating wetlands.
+Human industry has so far led to an extreme loss of wild areas and a dramatic decline in the stocks of vulnerable species, or even their extinction.
+The diversity of wildlife on Earth is rapidly decreasing. In contrast, humans are vastly overpopulated. In any of our actions, there will be a lasting impact on the environment.
+We are living in an age when the protection of remaining habitats and wild nature is simply not enough. It is now critical to give back what we have taken away: we need to create and rehabilitate habitats and rewild areas that were once used by us.
+We need to connect habitats, as isolated wildlife populations are not viable for long.
+We believe that no matter how small, every wilderness area counts!
+We also aim to raise awareness about the importance of natural diversity in the balanced functioning of environmental systems on our planet.
+!q:
+tiles:
+pict:1.jpg
+title:Conservation
+content:
+There are few unspoiled places remaining. The immense drive to designate land for agricultural and industrial purposes means conservation considerations are disregarded. Preserving natural spaces is extremely challenging, not only because of climate change but also the spillover effect and unpredictable nature of human activities. 
+Still, we must try. 
+!q:
+pict:2.jpg
+title:Biodiversity
+content:
+Any diverse wildlife and their complex interactions can remain only in places undisturbed by humans. By protecting natural landscapes our goal is to support biodiversity. The current diversity on our planet is the result of an incredibly long coevolution. We believe that it is the joint responsibility of each of us to preserve it.
+!q:
+pict:3.jpg
+title:Rewilding
+content:
+Rewilding can happen in several ways. The goal in each case is to let nature do most of the work itself. We do environmental management in places where it is imperative to preserve the existing conditions - thereby preventing an undesired outcome - or in highly transformed places where natural processes need encouragement.
+!q:
+pict:4.jpg
+title:Protection
+content:
+Species are best protected together with their own habitats. Often it is incompatible to human interests, therefore the goal is to obtain localized and tailor-made solutions and to gain the local entrepreneurs as supporters. This is vital to ensure survival of the given habitat and the undisturbed development of its wildlife in the long term.
+!q:
+pict:5.jpg
+title: Wildlife corridors
+content:
+Connecting rewilded and rehabilitated habitats is the key for having viable populations and maintaining biodiversity. These corridors provide safety and free movement for both targeted vulnerable species as well as other species essential to the local ecosystems.
+!q:
+pict:6.jpg
+title:Social Commitment
+content:
+Our goal is to convince as many people as possible to act in an environmentally friendly manner, limit their consumption, and be mindful of their impact on nature, wildlife and biodiversity. The balance of environmental systems can only be restored if everyone takes a voluntary and active role in environmental protection.
+!q:

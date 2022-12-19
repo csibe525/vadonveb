@@ -1,0 +1,35 @@
+﻿content:
+Egy támogató jó szónak, tartalmas beszélgetésnek, egy-egy jó projektötletnek ugyanúgy örülünk, mint a pénzadománynak vagy a tárgyi eszközöknek.
+Ha úgy érzed, hogy gondolataiddal, ötleteiddel, szabadidőddel, vagy egy terepen jól használható, de számodra feleslegessé vált tárggyal tudod támogatni Alapítványunkat, ne habozz, keress bennünket!
+!q:
+tiles:
+pict:1.jpg
+title:Ötletelj velünk!
+content:
+Ha ismersz olyan területet, amely alkalmas lehet a visszavadításra, természetvédelmi kezelésre, egy tanösvény kialakítására, de nem tudod, hogyan indulj el, keress bennünket bátran. A természetmegőrzési munkát segítő ötleteidet is oszd meg velünk nyugodtan, de ha a házi természetvédelmi praktikákkal merül fel benned kérdés, azt is várjuk!
+!q:
+pict:2.jpg
+title:Várunk önkéntesnek!
+content:
+Projektjeink megvalósítását, akcióinkat az esetek többségében önkéntes munkában szervezzük, végezzük. Ezeket az alkalmakat időről-időre meghirdetjük fb-oldalunkon, illetve a partnereink segítségével. Ha kíváncsi vagy ránk, szívesen segítenél, gyere, próbáld ki! 
+!q:
+pict:3.jpg
+title:Adományozz pénzt!
+content:
+Pénzadomány átutalása esetén nagyon fontos, hogy a közleményben szerepeljen: Adomány. A pénzadományok felhasználása nyomon követhetően zajlik: eszközöket vásárolunk, illetve a mindennapi működési költségeket (pl. rezsi) fedezzük belőle. Lásd: Átláthatóság és Dokumentumok/Adományok menüpont az oldal alján!
+!q:
+pict:4.jpg
+title:Adományozz eszközt!
+content:
+Elsősorban terepen is használható eszközökre van szükségünk, de ha akad felesleges A3-as szkennered, nyomtatód, asztali géped, laptopod, hangfalad, asztali lámpád, ne fogd vissza magad. A terepen vadkamerákra, elemlámpákra, fejlámpákra, akkumulátorokra, rovarász eszközökre, merítőhálókra, kenukra, evezőkre, drónra van szükségünk elsősorban. A felsorolás nem teljeskörű.  
+!q:
+pict:5.jpg
+title:Adód 1%-a
+content:
+Adód 1%-át egyelőre nem tudod nekünk felajánlani, amint látjuk a bürokrácia rögös útvesztőiben a fényt, ezt a szöveget cseréljük egy olyanra, amelyben leírjuk, hogyan segíthetsz!
+!q:
+pict:6.jpg
+title:Vidd hírünket!
+content:
+Örülünk, ha megmutatod ismerősöidnek, barátaidnak, munkatársaidnak az oldalunkat, tevékenységeinket, őket is elhozod akcióinkra. Célunk az ugyanis, hogy minél több mindekit visszafordíthatatlanul természetvédővé tegyünk, akcióra, bármilyen kis lépésre ösztönözzünk.
+!q:

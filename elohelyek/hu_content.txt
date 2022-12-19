@@ -1,0 +1,36 @@
+﻿content:
+A legbonyolultabb élő rendszerek valamilyen szempontból különleges, ősi élőhelyeken alakulnak ki: egy korhadó öreg fában, egy mocsárban, egy-egy érintetlen lágyszárú társulásban. Az ember rengeteg ilyen élőhelyet szüntetett meg, vagy alakított át. Közös felelősségünk, hogy minél többet visszaadjunk ezekből, és tevékenységeinket az élővilág szempontjából fenntarthatóbb módon végezzük: ennek egyik legfőbb eleme a mezőgazdasági tájak és gazdálkodási formák mozaikossá tétele.
+A természetes, vagy természetközeli vizes élőhelyek fantasztikusan változatos élővilágnak adnak otthont: minél összetettebb és változatosabb növényzet alakult ki bennük, annál színesebb állatviláguk is. A klímaváltozás és a közvetlen emberi beavatkozások miatt azonban ezek az élőhelyek rohamosan fogyatkoznak. Éppen ezért célunk nem csak a még meglévő vizes élőhelyek megőrzése, hanem korábbiak helyreállítása, felélesztése.
+!q:
+tiles:
+pict:1.jpg
+title:Nádasok
+content:
+A nádasok jelentősége nem csak többrétű (víztisztító és stabilizáló hatás) ökológiai szerepükben nyilvánul meg, hanem erősen specializált, zárt és rejtett élővilágukban is. Pusztulásuk világméretű probléma, a legtöbb természetes és természetközeli vizes élőhelyet érinti. Az egészséges nádasok megőrzése, területük gyarapítása Alapítványunk egyik fő feladata.
+!q:
+pict:2.jpg
+title:Holtfák
+content:
+Egy-egy holtfa valóságos mikrokozmosz: számtalan apró élőhelyet rejt magában, amelyek lakói talán az egyik legbonyolultabb és még mindig nem teljesen feltárt hálózatot, ökoszisztémát alkotják. Egy erdő csak különböző fajú és állapotú holt faanyaggal együtt lehet egészséges és megújulásra képes. Minél több a holtfa mennyisége, annál összetettebb magának az erdőnek is az élővilága.
+!q:
+pict:3.jpg
+title:Gyepek
+content:
+Mára jelentősen megfogyatkoztak az érintetlen, zárt gyepek. Jelentős szén-dioxid-megkötő képességük mellett a biodiverzitás őrzői, ráadásul több, az élő rendszerek egyensúlya szempontjából kulcsfontosságú faj (számos ragadozómadár) függ meglétüktől. Az évmilliók alatt kialakult gyepek helyreállítása összetett, lassú, célzott és időzített beavatkozásokat igénylő folyamat.
+!q:
+pict:4.jpg
+title:Holtágak
+content:
+A vizes élőhelyek közül talán a mocsarak kínálják a legváltozatosabb környezetet. Ennek megfelelően élőviláguk is mozaikos, sokrétű, valódi kincsesbánya az árvaszúnyogok, szitakötők és plankton-szervezetek kutatói számára. A holtágak feltöltődése természetes folyamat, ugyanakkor mivel a szabályozott folyókból nem keletkeznek újabb holtágak, ezért a korábbiak megőrzése prioritássá vált.
+!q:
+pict:5.jpg
+title:Ligeterdők
+content:
+Szabadon kanyargó folyóinkat egykor kiterjedt puhafás galériaerdők kísérték. Ezek az időszakosan víz alá kerülő, áthatolhatatlan dzsungelek hihetetlenül gazdag élővilágnak adtak otthont. A ma létező „ligeterdők” már nem töltik be egykori szerepüket - egyetlen fasorrá redukáltuk ezeket az élőhelyeket, hogy még több szántóterületünk lehessen. Vízmegtartó és víztisztító hatásuk miatt is fontos cél a folyópartok visszavadítása.
+!q:
+pict:6.jpg
+title:Farmok
+content:
+Az állattartó gazdaságok néhány kis lépés megtételével jelentős ökológiai szerepet tölthetnek be: a haszonnövények mozaikos telepítése, a pufferként szolgáló sövények, az itatóként is használható vizes élőhelyek, a megfelelő mértékű trágyázás, komposztálás, mulcsozás, a talaj kíméletes, minél kisebb bolygatással járó művelése, a vegyszerek száműzése a kulcsa annak, hogy a farm egy gazdag élővilágú, izgalmas élőhellyé váljon.
+!q:
+

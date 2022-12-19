@@ -1,0 +1,49 @@
+﻿content:
+Each one of our activities serves our mission and goals and is pursued with the help of professionals. Our Foundation is non-profit, we therefore finance our everyday running, monitoring equipment and project costs partly from the income-generating activities.
+!q:
+tiles:
+pict:1.jpg
+title:Monitoring
+content:
+For the designing of conservation works it is essential to have as much information as possible about the targeted territories and the wildlife using them. We use camera traps that record every movement at the observed area. Also, we spend a lot of time on the field to detect hiding species and to survey the diversity of the targeted spot. We have short, medium and long-term monitoring activities.
+!q:
+pict:2.jpg
+title:Research
+content:
+The monitoring, expert-consultations and existing publications mostly provide us with sufficient information for deciding about the direction of development and the extent of intervention. Still, we also have underrepresented topics in focus, which require a huge amount of time on the field and in front of our screens to deal with.
+!q:
+pict:3.jpg
+title:Rehabilitation
+content:
+Our main focus is to find fading wetlands that have a rehabilitation or revitalization potential. By this, we assume that it is a feasible, low-cost, low intervention, self-sustaining and highly productive measure. Much more than an eventual reconstruction. Therefore, we do not deal with areas which are not showing signs of sufficient water-levels. It is the local vegetation that gives a first indication for that.
+!q:
+pict:4.jpg
+title:Habitat-management
+content:
+Targeted management is implemented in degraded habitats where natural processes would need immense time to restore the ecosystem. Fighting off invasive alien species at any place with high conservation-potential, water-flow regulation or reconstruction of river-walls in regulated river-basins are such cases.
+!q:
+pict:5.jpg
+title:Actions
+content:
+We organize environmental actions involving volunteers and locals. Our actions aim at habitat-management, habitat or species protection, cleaning or litter collection. This latter enables raising awareness about excessive consumption and recycling. During our nest-box days, we monitor breeding activity of cavity-nesting birds and demonstrate their role in forest ecosystems.
+!q:
+pict:6.jpg
+title:Advocacy
+content:
+Our Foundation provides backing for initiatives aiming to resolve specific environmental problems. We are convinced that conservation goals must prevail in case of biodiversity hotspots, wildlife corridors and wetlands in face of any agriculture or industry-motivated land aquisitions. Also, we are ready to boost efforts to reduce consumption and highlight ecological solutions.
+!q:
+pict:7.jpg
+title:Awareness raising
+content:
+An environmental friendly attitude can evolve as a result of a direct and personal experience with nature. Therefore, our field trips and forest school programmes for smaller or larger groups without any age restrictions aim to get in touch with plants and animals. We use countless presentation materials to illustrate both our indoor and outdoor presentations designed for kindergartners, pupils and students.
+!q:
+pict:8.jpg
+title:Educational trails
+content:
+We plan, design and construct educational trails for conservation and awareness raising purpuses. This includes the formation of the path, the development of the boards’ contents, the graphic design and illustration and also the management of printing, wooden works and the setting up. 
+!q:
+pict:9.jpg
+title:Consultancy
+content:
+The sharing of our habitat with wild animals is sometimes a real challenge for us, the humans. We blame them for our difficulties and troubles, but in reality it is us who act as competitors even if we do not really need the whole territory. In fact, the damage can be minimized and these situations can be transformed into exciting adventures happening in our backyard. We only need to know our „housemates”.  
+!q:

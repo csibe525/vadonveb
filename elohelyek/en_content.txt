@@ -1,0 +1,36 @@
+﻿content:
+The most complicated ecosystems evolve in special habitats: in a decaying tree trunk, in mires or on undisturbed grasslands. The humanity abolished or transformed a multitude of such habitats. It is our joint responsability to bring back as many as possible and to manage our activities in a sustainable way in favour of natural ecosystems. One of the coral elements of it is the transformation of monocultures into mosaic-like, heterogenous landscapes.
+Natural or natural-like wetlands accomodate amazingly diverse wildlife. The more complex the vegetation is, the more colorful fauna live there. Due to the climate-change and direct human interventions, these wetlands are dissapearing at an unprecedented pace. Therefore, not only we aim to preserve remaining ones, but also rehabilitate and revitalize as many of former wetlands as possible.
+!q:
+tiles:
+pict:1.jpg
+title:Reedbeds
+content:
+The significance of reedbeds is partly coming from their main ecological roles: water-purification and stabilization of environmental conditions, such as water quality and microclimate. Besides, reedbeds have a highly specialized fauna which live a fairly secret life. The loss of reedbeds is a global challenge and it is one of our main tasks to preserve and assist remaining ones.
+!q:
+pict:2.jpg
+title:Decaying wood
+content:
+Decaying wood creates its own microcosmos hiding great numbers of tiny habitats. The residents of these microhabitats build up perhaps the most complicated and not fully explored web on Earth. A forest can remain fit and sustaining if nurished by huge quantities of decaying wood of different species and stages. The more dead trees are in a forest, the more complicated its wildlife will become.
+!q:
+pict:3.jpg
+title:Grasslands
+content:
+Undisturbed, closed, relict-like grasslands have been vanishing. Besides their extreme capacity of CO2 capture and storage these habitats are of the few citadels of biodiversity. And what is more, several ecologically key species (typically raptors) are dependent on them. Restoration of several million year-old grasslands is a demanding, bit-by-bit process with pointed, carefully planned interventions.
+!q:
+pict:4.jpg
+title:Backwaters
+content:
+Mires are probably the most diverse habitats of wetlands. Their wildlife is organized in a complex network and is likely to shelter true curiosities for those interested in non-biting midges, dragonflies and zooplankton. Backwaters are dynamical and show natural tendency to sedimentation. At the same time no new ones emerge along regulated rivers, therefore we have to preserve and rehabilitate what remained.
+!q:
+pict:5.jpg
+title:Gallery forests
+content:
+Free-flowing rivers were once bended by widespread gallery forests. Those periodically flooded, inpenetrable jungles accomodated thriving wildlife. Nowadays, we have difficulties in spotting their remnants as the majority of these forests have been reduced to one single tree-line in order to gain agricultural land. Their essential ecological roles however call for restoration and rewilding.
+!q:
+pict:6.jpg
+title:Farms
+content:
+A handful of diverse livestock along with mosaic-like vegetation can make farms ecological hotspots: buffer-zones, ponds, streams, well-planned fertilization, composting, mulching, careful and chemical-free management of soils are the keys for developping an ecology-orientated, self-sustainable and gripping farmland, providing a multitude of good-quality habitats.
+!q:
+

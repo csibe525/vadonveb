@@ -1,0 +1,40 @@
+﻿content:
+Az apró lépések hatása összeadódik. Még ha csak kis lépésekkel tudsz is hozzájárulni a természet védelméhez, az is számít, hiszen ha sokszor és sokan végzitek, összességében nagy eredményt fogtok elérni. Akciózni egyedül is lehet, és minél inkább rutinná válik például a nejlondarabok összegyűjtése egy-egy erdei séta során, annál kevésbé kényelmetlenségként, mint inkább „hősies” tettként éled meg.
+Legyen nálad mindig többször is használható szemétgyűjtő zsák és kesztyű, mert ha csak néhány műanyag madzagot gyűjtesz is össze sétáid, túráid során, már azzal lehet, hogy több madárfióka életét megmented.
+!q:
+tiles:
+pict:1.jpg
+title:Szedd össze!
+content:
+Minden, a természetben kallódó bálamadzag előtt számtalan lehetőség áll: kerülhet madárfészekbe, a szalmával együtt növényevők tápcsatornájába, a széllel eljuthat egy közeli holtágba, ahol rátekeredhet az éppen arra a faágra kimászó mocsári teknős lábára… Minden egyes összeszedett bálamadzaggal, konzervdobozzal, petpalackkal, hungarocell-darabbal életeket menthetsz.  
+!q:
+pict:2.jpg
+title:Rögzítsd!
+content:
+A természeti értékek megőrzésének egyik alapja az, hogy tudjuk: hol található a megőrzendő érték. Ebben Te is tudsz segíteni azzal, hogy dokumentálod a védett növény-és állatfajok helyét, a megtalálás időpontját, körülményeit. Adataidat a <a href="https://www.vadonleso.hu" target="_blank">Vadonleső Központban</a> is várják.
+!q:
+pict:3.jpg
+title:Figyeld meg!
+content:
+A természeti környezeted, a kertben élő madarak, rovarok megismerését az szolgálja legjobban, ha csak figyeled őket, anélkül, hogy jelenléted zavaró lenne. Így találhatod meg a madarak fészkeit, a gyíkok tojásait és így tudsz gondoskodni arról, hogy biztonságban legyenek az utódaik is.
+!q:
+pict:4.jpg
+title:Fotózd le!
+content:
+Oszd meg a természet szépségeit azokkal, akik közel állnak hozzád, vagy akár a nagyvilág figyelmét is felhívhatod rájuk. A természetfotózás sokakból formál természetvédőt, ráadásul a dokumentálásnak ez a módja újabb és újabb lehetőséget nyújt védendő élőhelyek, értékek felfedezésére.
+!q:
+pict:5.jpg
+title:Mentsd meg!
+content:
+Ha bajba került állatot látsz, ne hagyd magára! Minden egyes kétéltű, madár, rovar élete számít, már csak azért is, mert sokan az általunk épített műutakon, úszómedencékben, csatornákban pusztulnak el. Ha egyedül nem tudod megoldani a problémát, toborozz társakat, hívj segítséget!
+!q:
+pict:6.jpg
+title:Szervezz akciókat!
+content:
+Az általad szervezett akció nem csak a szemétszedésről szólhat: ültessetek méhlegelőt, tegyetek ki egy táblát, amely bemutatja a helyi parkban élő madarakat, rakjatok ki madárodúkat, vagy madáritató tálcákat, ültessetek őshonos fákat az inváziósok helyett.
+!q:
+pict:7.jpg
+title:Szólalj fel!
+content:
+A természetvédelem csak úgy lehet erős, ha nagy társadalmi támogatottsággal bír. Szükséges elérnünk azt, hogy magától értetődő legyen: egy természetvédelmi szempontból fontos területen nem épülhet szálloda, vagy ipari park. Ezt csak úgy érhetjük el, ha a passzív természetvédőkből a természet proaktív képviselői válnak.
+!q:

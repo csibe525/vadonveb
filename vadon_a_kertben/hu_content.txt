@@ -1,0 +1,46 @@
+﻿content:
+Saját kertünk kis léptékű élő rendszer, apró élőhelyek (mikrohabitatok) szövevényes együttese. Minél természetesebb, minél változatosabb, annál többféle szárnyas, vagy szárnyatlan, ízeltlábú, vagy lábatlan, nagy fülű, vagy kis fülű, tollas vagy csupasz, levélevő vagy ragadozó, cincogó vagy sípoló élőlénynek ad otthont.
+Bonyolult, összetett táplálékláncok épülnek fel a szemünk láttára, aminek az eredménye, hogy bár van szúnyog, de alig vesszük észre, mert sokan vadásznak rájuk, levéltetű is akad, de csak elvétve, mert a cinegék és őshonos katicáink összeszedegetik őket, és még sorolhatnánk.
+Ahhoz, hogy minél több élőlényt vonzzunk a kertünkbe, nem kell sok mindent tennünk!
+!q:
+tiles:
+pict:1.jpg
+title:Növényzet
+content:
+Változatos, több szintű, nagyrészt őshonos növényzet ültetésével meg is tettük a legfontosabb lépést: egy falra felfuttatott sűrű kúszónövény, az árnyéki talajtakarók áthatolhatatlan társulása, egy kusza ágrendszerű virágos cserje, egy odvasodó öreg fatörzs kiváló élőhelyeket, búvóhelyet és táplálékforrást kínál egész évben.
+!q:
+pict:2.jpg
+title:Nektárforrás
+content:
+Rovarok sokaságának biztosítunk életteret egy mindig virágzó növénytársítással. A rovarok jelenléte pedig vonzza a madarakat. A lepkék számára fontosak az őshonos vadnövények, hiszen ezek közül kerül ki tápnövényeik többsége. Egy rovarbarát szegletben burjánozhat a nagy csalán, a kányazsombor, az illatos ibolya, vagy a kakukkfű, a lándzsás útifű, a veronika- és bogáncsfélék.
+!q:
+pict:3.jpg
+title:Vizes élőhelyek
+content:
+A legapróbb vízfolt körül is pillanatok alatt édenkert alakul ki. A víz élőlények sokaságát vonzza: itató hüllők, madarak, rovarok, pókok számára, petézőhely a szitakötőknek, kétéltűeknek, párolgásával a közvetlen közelségében élő növényeket is segíti. Kákafélék, sások telepítésével elősegíthetjük egy változatos növénystruktúra létrejöttét.
+!q:
+pict:4.jpg
+title:Farakás
+content:
+A lehulló, levágott ágakból, gallyakból építsünk természetvédelmi farakást. A bomló faanyag számos rovar táplálkozóhelye, így a harkályfélék számára is különösen vonzó lesz. A résekben megbúvó pókokra gyíkok és kisebb madarak vadásznak, a kétéltűek, sünök számára pedig ily módon kiváló telelőhelyet biztosítunk. 
+!q:
+pict:5.jpg
+title:Kőrakás
+content:
+Egy zavartalan, napos kőrakás szintén rovarok, pókok, és ezzel hüllők sokaságának ad otthont. A nagyobb résekben a vörösbegy és az ökörszem is fészket rakhat. Egy védett (taposásmentes) kis homokos felülettel a gyíkoknak biztosíthatunk tojásrakó-helyet.
+!q:
+pict:6.jpg
+title:Avarkupac
+content:
+A lehullott levél ott van a legjobb helyen, ahová hullik. Ha mégis összeszedjük itt-ott az avart, képezhetünk belőle kupacokat, ezzel biztosítva a sünök és kétéltűek számára telelőhelyet. Fontos, hogy ezeket a kupacokat ne bolygassuk vasvillával, gereblyével.
+!q:
+pict:7.jpg
+title:Madárodúk
+content:
+Odvas fák hiányában odúk kihelyezésével biztosíthatunk fészkelőhelyet a cinegéknek, csuszkának, verebeknek. Egy háborítatlan, ligetes kertben számíthatunk a nyaktekercs és a légykapók megjelenésére is. A vörösbegyek számára félig nyitott odút helyezhetünk ki, a lomb takarásába, vagy egy növényzettel sűrűn benőtt helyre.
+!q:
+pict:8.jpg
+title:Etetés
+content:
+A kerti madarak téli etetésének komoly ökológiai következményei vannak: az etetés ugyanis nem kertünk fajgazdagságának irányában hat, hanem egy-egy erősebb állomány (jellemzően széncinege) további erősödését támogatja. Érdemes ezért az etetést célzottan végezni: dióval a mókusoknak és harkályféléknek, almával a rigóféléknek kedvezünk.
+!q:

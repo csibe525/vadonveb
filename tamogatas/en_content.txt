@@ -1,0 +1,34 @@
+﻿content:
+We are as happy to hear your encouraging words, meaningful feedback, or new project-ideas as we are to receive a donation or equipment. If you wish to support us with your thoughts, ideas, free time, or any items needed for the field, do not hesitate to contact us!
+!q:
+tiles:
+pict:1.jpg
+title:Brainstorming
+content:
+If you know of any land that seems suitable for rewilding, conservation management or for using as an educational trail but are unsure how to launch the project, feel free to contact us. Share with us your ideas to help conservation, and if you have any questions about home nature conservation, we are happy to help.  
+!q:
+pict:2.jpg
+title:Volunteer with us!
+content:
+The organization and implementation of our projects and actions is mostly volunteer work. We post events on our Facebook page and give instructions how to apply. If you are interested and want to help, join us!
+!q:
+pict:3.jpg
+title:Donate financially!
+content:
+We are grateful for any funds donated. It is very important to write Donation at the Purpose of Payment or Message field. You can trace the use of monetary donations at Transparency/Donations menu item at the bottom. From these funds we purchase field-equipment (like camera traps) and finance the daily running of the Foundation (electricity, heating, accountant).
+!q:
+pict:4.jpg
+title:Donate equipment!
+content:
+Primarily we need items used during fieldwork. However, if you have surplus functional A3-page scanner, printer, PC, laptop, loudspeakers, desk-lamp, think of us! In the field, we need camera traps (trail cameras), flashlights, headlamps, batteries, entomologist equipment, scoop-nets, canoe, paddles, drones…and more.
+!q:
+pict:5.jpg
+title:1% of taxes
+content:
+At present, we are not ready to receive an annual one percent from you, but as soon as we surmount the bureaucracy, we will let our supporters know and rewrite these sentences.
+!q:
+pict:6.jpg
+title:Spread the word
+content:
+We encourage you to share our webpage, activities, or news. Ideally you will mobilise your friends, family, colleagues to take part in our actions. Our aim is to make as many people as possible passionately devoted to nature conservation through even small steps.
+!q:

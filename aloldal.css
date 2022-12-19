@@ -1,0 +1,167 @@
+@import "tiles.css";
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *  aloldalak szabályai */
+
+.space-holder {
+	height: 300px;
+}
+
+/* betű alapszínei
+ * betűhátterek képei */
+.rolunk		{
+	--textbg: url('../text-bg/betuhatterBarna.png');
+	--aofocim: url('../pict/2a.jpg');
+	color: #8d7239;
+}
+.kuldetesunk-es-celjaink {
+	--textbg: url('../text-bg/betuhatterCiklamen.png');
+	--aofocim: url('../pict/1a.jpg');
+	color: #99437e;
+}
+.tevekenysegek	{
+	--textbg: url('../text-bg/betuhatterLibafos.png');
+	--aofocim: url('../pict/8a.jpg');
+	color: #4a5529;
+}
+.legy-aktiv {
+	--textbg: url('../text-bg/betuhatterZold.png');
+	--aofocim: url('../pict/5a.jpg');
+	color: #497d22;
+}
+.legy-aktiv a, .legy-aktiv a:visited {
+	color: #000;
+	text-transform: unset;
+}
+.vadon-a-kertben {
+	--textbg: url('../text-bg/betuhatterArany.png');
+	--aofocim: url('../pict/4a.jpg');
+	color: #c99323;
+}
+.elohelyek {
+	--textbg: url('../text-bg/betuhatterKek.png');
+	--aofocim: url('../pict/7a.jpg');
+	color: #122e57;
+}
+.konfliktusok	{
+	--textbg: url('../text-bg/betuhatterRozsda.png');
+	--aofocim: url('../pict/6a.jpg');
+	color: #9f4d1d;
+}
+.projektek	{
+	--textbg: url('../text-bg/betuhatterTurkiz.png');
+	--aofocim: url('../pict/3a.jpg');
+	color: #1c8a57;
+}
+.tamogatas	{
+	--textbg: url('../text-bg/betuhatterLevendula.png');
+	--aofocim: url('../pict/9a.jpg');
+	color: #433B85;
+}
+.terepi-programok {
+	--textbg: url('../text-bg/betuhatterKalandok.png');
+	--aofocim: url('../pict/terepi_a.jpg');
+	color: #3e667a;
+}
+.egyeb		{
+	--textbg: url('../text-bg/betuhatter2.png');
+	--aofocim: url('../pict/9a.jpg');
+	color: #5f6c09;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+.aloldal {
+	width: var(--VW);
+	box-sizing: border-box;
+}
+
+.ao-first-text {
+	align-self: flex-end;
+	margin: 0 auto 20px auto;
+	font-size: 65px;
+}
+
+.aloldal .alcim {
+	font-size: 40px;
+	margin-top: 40px;
+}
+
+.aloldal > div:first-child {
+	position: relative;
+	bottom: 0;
+	height: 400px;
+	display: flex;
+}
+
+.aloldal div[id="aofocim"]{
+	background: linear-gradient(to bottom, transparent, var(--bgcolor)), var(--aofocim);
+	background-size: cover;
+	background-position: center;
+}
+
+.tartalom {
+	width: 80vw;
+	margin: 0 auto;
+	box-sizing: border-box;
+	font-family: BV-R;
+	font-size: 20px;
+	text-align: left;
+}
+
+.tartalom br {
+	margin-bottom: 20px;
+}
+
+/* * * * * * * * * * * * * *
+ * Te is tehetsz oldal * * */
+
+
+
+.tips {
+	width: 1000px;
+	display: grid;
+	grid-template:  ' title title'
+					' text   text'
+					'garden nature';
+	margin: 50px auto;
+}
+
+.tips * {
+	box-sizing: border-box;
+}
+
+.tips-title {grid-area: title;}
+.tips-text {grid-area: text;}
+.garden-content {grid-area: garden;}
+.nature-content {grid-area: nature;}
+
+.tips-title, .tips-text {
+	border: 1px solid red;
+	width: 980px;
+	margin: auto;
+}
+
+.garden-content, .nature-content {
+	display: flex;
+	flex-direction: column;
+	min-height: 300px;
+	border: 1px dotted green;
+	width: 480px;
+	margin: auto;
+}
+
+.garden-content span, .nature-content span {
+	text-align: center;
+}
+
+
+
+@media only screen and (max-width: 1300px) {
+
+	.ao-first-text {
+		font-size: 40px;
+	}
+
+}

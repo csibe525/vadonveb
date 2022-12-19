@@ -1,0 +1,46 @@
+﻿content:
+Our own garden can be regarded as a small-scale ecosystem, a complex network of microhabitats. The more natural and diverse, the more wildlife you will have in it: winged or wingless, legged or legless, big- or small-eared, feathered or bare, herbivorous or carnivorous, squeaky or whistling...
+Multiple food-chains emerge under our eyes resulting in a dynamic balance. There are mosquitos, but only a few as many other species chase them. There are plant lice, but most are devoured by birds or ladybugs.
+To attract a great variety of animals to our garden we do not have to be a magician.
+!q:
+tiles:
+pict:1.jpg
+title:Vegetation
+content:
+A diverse multi-layered garden with largely indigenous vegetation will create an inviting habitat. A combination of dense wall-creeper plants, shade-loving  ground-cover, overgrown flowering bushes and hollowed decaying tree trunks will offer a variety of sources for breeding, hiding and feeding.   
+!q:
+pict:2.jpg
+title:Nectar-sources
+content:
+From spring to late-autumn, a continually flowering spot will provide a living space for thousands of insects, which in turn attract diverse birds. For butterflies, native plants are crucial for habitat selection as the larvae feed on them. In an insect-friendly patch we may let nettles, violets, thyme, speargrass and thistles bloom.   
+!q:
+pict:3.jpg
+title:Wetlands
+content:
+Even the tiniest pool of water will quickly become an Eden. Fresh water attracts a multitude of living creatures: it serves as a drinking-trough for reptiles, birds, insects and spiders, an egg-laying site for dragonflies and frogs, and through evaporation will help surrounding plants. We can boost vertical and horizontal diversity of the vegetation by planting sedges and floating plants.
+!q:
+pict:4.jpg
+title:Wood-piles
+content:
+Piling up fallen sticks and branches will assist biodiversity in our garden. Decaying wood is a food source for a variety of insects so it will also attract woodpeckers. Spiders hiding in crevices are chased by reptiles and birds. In the winter, these piles are used as a den for hedgehogs, lizards and frogs.
+!q:
+pict:5.jpg
+title:Stone-piles
+content:
+An undisturbed, sunny stone-pile can be home for many insects and spiders, becoming a meal for reptiles. In spacious but hidden gaps robins and wrens are likely to nest. Sand patches can provide egg-laying site for reptiles if it is safe from footsteps and cats.
+!q:
+pict:6.jpg
+title:Leaf-piles
+content:
+Fallen leaves are best left where they landed. If we wish to remove them from the lawn, they are better piled up in an unused corner of our garden rather than burning them. Leaf piles will be winter shelter for hedgehogs and frogs. It is important to not use sharp gardening tools if handling the piles afterwards.
+!q:
+pict:7.jpg
+title:Nesting boxes
+content:
+In the absence of decaying old trees, we can accommodate cavity-nesting birds such as tits, sparrows and nuthatch by installing artificial nest boxes. Robins require hidden, open-front boxes. In a largely wild park-like garden, we can also expect wryneck and flycatchers. If we have livestock, hoopoes and owlets can come around. 
+!q:
+pict:8.jpg
+title:Feeding
+content:
+Winter-feeding of garden birds has ecological impact: by supplying bird seed, we favour those that are already thriving - such as the Great tit - and we disfavour diversity. It is better to feed purposefully: offering nuts will favour woodpeckers and squirrels, while apples will attract thrushes.
+!q:

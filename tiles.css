@@ -1,0 +1,81 @@
+/* * * * * * * * * * * * * * * * *
+ * csempék elrendezése formázása */
+
+.tiles {
+	box-sizing: border-box;
+	width: 80%;
+	max-width: 650px;
+	margin: 65px auto;
+}
+
+.tiles-bar img {
+	grid-area: img;
+	width: 100%;
+	height: auto;
+}
+
+.tiles-bar span {
+	grid-area: cim;
+	font-size: 22px;
+	margin-top: 5px;
+	width: 100%;
+}
+
+.tiles-bar p {
+	grid-area: txt;
+	font-family: BV-R;
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+.tiles-bar {
+	width: 100%;
+	display: grid;
+	text-align: center;
+	justify-items: center;
+	margin: 0 auto;
+	grid-template: 'img'
+				   'cim'
+				   'txt';
+}
+
+@media only screen and (min-width: 1000px){
+	.tiles {
+		max-width: 880px;
+	}
+
+	.tiles-bar {
+		text-align: left;
+		grid-template: 'img cim'
+					   'img txt';
+		grid-column-gap: 20px;
+	}
+
+	.tiles-bar p span {
+		text-align: left;
+	}
+
+	.tiles-bar span {
+		font-size: 30px; /*1.8vw;*/
+		height: 2vw;
+		width: 420px;
+	}
+
+	.tiles-bar p {
+		font-size: 20px; /*1.3vw;*/
+	}
+
+	.tiles-bar img {
+		width: 440px;
+		height: 330px;
+	}
+
+	.tiles-bar:nth-child(2n-1) * {
+		text-align: right;
+	}
+
+	.tiles-bar:nth-child(2n-1) {
+		grid-template: 'cim img'
+					   'txt img';
+	}
+}

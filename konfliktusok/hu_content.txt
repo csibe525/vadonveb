@@ -1,0 +1,66 @@
+﻿content:
+Konfliktusos fajoknak szoktuk nevezni azokat az élőlényeket, akikkel ilyen-olyan szempontból meggyűlik a bajunk. Valójában nem ők, hanem mi vagyunk a konfliktusosak, és nem számukra, hanem számunkra nehéz az együttélés. Ez leginkább abból fakad, hogy a szükségleteinket jócskán meghaladva használjuk bolygónk erőforrásait, ezzel kiszorítva sok más fajt eredeti élőhelyéről. Az opportunisták ehhez több-kevesebb sikerrel alkalmazkodnak, és táplálékbázist váltanak, sőt, akár viselkedésüket is módosíthatják, alkalmazkodva az emberi környezethez.
+A konfliktusok java része azonban elkerülhető, feloldható. Nem kell mást tennünk, mint békésebb mederbe terelni a kapcsolatot, felhasználva „vendégünk” motivációit, ezeken keresztül pedig úgy irányítani élettevékenységeit, hogy ne zavarjuk egymást.
+Ehhez viszont elengedhetetlen, hogy minimális szinten megismerjük a másik felet és azokat a motivációkat, amelyek életterünkbe irányították őt.
+!q:
+tiles:
+pict:1.jpg
+title:Hód
+content:
+Fakivágás, csatornázás, duzzasztás, árasztás. Hódokkal egyre gyakrabban találkozhatunk lakott területeken, vizes árkok, csatornák, patakok közelében, ahol tevékenységei zavaróak lehetnek, illetve károkat is okozhatnak. A hód védett, ráadásul mérnökösködésének óriási ökológiai jelentősége van. A problémák kezelése ezért több tényező együttes figyelembevételével történik.
+!q:
+pict:2.jpg
+title:Vidra
+content:
+A közeli halastavak, természetes tavak, folyók környékén élő vidrák a kerti halastavakat is látogathatják. Ha szeretnénk megelőzni az aranyhalak rendszeres eltűnését, ez esetben érdemes a kerítést villanypásztorral kiegészíteni. A vidra a kacsaállományt is tizedelheti, ugyanakkor mivel fokozottan védett, ezért csapdázásása és elejtése is tilos.
+!q:
+pict:3.jpg
+title:Pele
+content:
+Erdei környezetben gyakran előfordul, hogy a nagy pele (ritkábban a mogyorós pele) beköltözik a ház védettebb zugaiba. Amellett, hogy hangosak, minden elérhető és rágható anyagot felhasználnak a fészeképítéshez. Mivel valamennyi pelefajunk védett, ezért befogásukhoz hatósági engedély szükséges. Kiköltözésüket egy megfelelően szigetelt, alternatív telelő- és fészkelőhely kialakításával motiválhatjuk.
+!q:
+pict:4.jpg
+title:Nyest
+content:
+A nyestek kellemetlen társbérlők lehetnek az autónk motorterében, ugyanakkor jelenlétük kifejezetten hasznunkra válhat a ház környékén. Ha a nyest megjelenik a padláson, vagy a fészerben, az arra utal, hogy talál elegendő mennyiségű rágcsálót (egereket, pockot, patkányt) a ház környékén. Miután elvégezte a rágcsáló-mentesítést, nyestünk továbbáll.
+!q:
+pict:5.jpg
+title:Róka
+content:
+A rókák településfüggővé válását mi magunk idéztük elő természetes táplálékbázisuk kiirtásával (rágcsálóirtás mezőgazdasági területeken), valamint konyhai hulladék termelésével. A rókák károkozását megelőzhetjük megfelelő minőségű tyúkketrecekkel, valamint minél kevesebb konyhai maradék kidobásával.
+!q:
+pict:6.jpg
+title:Seregély
+content:
+Valamennyi monokultúra vonzó, mivel kis területen nagy koncentrációban kínál táplálékot. Ne csodálkozzunk azon, hogy egy gyümölcsösben, lucernásban, kukoricásban elszaporodnak a „kártevők”, hiszen mi magunk kínálunk céltáblát számukra. Természetvédelmi és növényegészségügyi szempontból is sokkal értékesebbek a vegyes ültetvények, természetközeli társítások, főleg védősövénnyel, pufferzónával körbevéve.
+!q:
+pict:7.jpg
+title:Verebek
+content:
+Sokan elhessegetik az etetőkről, vagy a fecskefészkektől, de fontos tudni, hogy a verebek később foglalnak fészket, mint a fecskék, és rengeteg szúnyogot, legyet zsákmányolnak. Pintyfélék, ezért helyben ülve morzsolják el a napraforgómagokat. A cinegéknek eszközre van szükségük, ezért ők a maggal elrepülnek az etetőről, így úgy tűnhet, hogy a verebek elkergetik őket.
+!q:
+pict:8.jpg
+title:Harkályok
+content:
+Deszkázat- és szigetelés-bontó tevékenységük megelőzésére már számos jó módszer létezik, de befolyásolhatjuk is érdeklődésüket néhány, már korhadásnak indult harkályfa (fatörzs-darabok) kihelyezésével. Így a tetőnket is megkíméljük és számukra is biztosítunk életteret, táplálékbázist, ráadásul mindeközben tevékenységeiket is megfigyelhetjük.
+!q:
+pict:9.jpg
+title:Fecskék
+content:
+A fecskék „szemetelése” megelőzhető: a fecskepelenka egyszerű deszkadarab is lehet. Jelenlétük előnyös számunkra, mivel jóval kevesebb szúnyogot eredményez a fészkek környezetében. Ezért érdemes elősegítenünk költésüket sárgyűjtőhelyekkel, vízfelületek létrehozásával.
+!q:
+pict:10.jpg
+title:Darazsak
+content:
+A darazsak vegyszeres irtása helyett sokkal környezetkímélőbb megoldás átköltöztetésük, méghozzá alternatív fészkelőhelyek, védett zugok felkínálásával a kert olyan részében, amit kevésbé használunk. Erre alkalmas lehet egy napos helyre kihelyezett kis téglaépítmény is, cseréptetővel. A darazsak ragadozók, és fontos szerepet játszanak más rovarok állományszabályozásában.
+!q:
+pict:11.jpg
+title:Szúnyogok
+content:
+Ha szeretnénk megszabadulni a szúnyogoktól, akkor fontos a madarak, ragadozó rovarok, denevérek, kétéltűek és hüllők támogatása. A vizes élőhelyek létrehozása paradox módon nem növeli a szúnyogállományt, ugyanakkor a felsorolt természetes szúnyogirtók mindegyikének kellő vonzerőt jelent ahhoz, hogy megtelepedjen kertünkben.
+!q:
+pict:12.jpg
+title:Denevérek
+content:
+A denevérek „szemetelése” a fecskékéhez hasonlóan megelőzhető megfelelő költőodú felkínálásával. Denevérodút a ház vagy a kert egy védett, árnyékos zugába érdemes kihelyezni, legalább 4-5 méteres magasságba. Denevéreink kora tavasztól szorgalmasan gyűjtik a repülő rovarokat, ráadásul kertünkbe vonzzák a rájuk vadászó baglyokat.
+!q:

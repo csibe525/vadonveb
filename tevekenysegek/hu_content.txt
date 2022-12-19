@@ -1,0 +1,50 @@
+﻿content:
+Szakértők bevonásával végzett tevékenységeink mindegyike céljainkat szolgálja (lásd Küldetésünk és céljaink menüpont).
+Alapítványunk nonprofit szervezet, ezért a tevékenységekből származó bevételeket működésünk biztosítására, monitoring-eszközök beszerzésére, valamint projektjeink finanszírozására fordítjuk.
+!q:
+tiles:
+pict:1.jpg
+title:Monitoring
+content:
+Egy-egy egyed mozgását, élőhelyhasználatát, mindennapi szokásait, és a visszavadításra szánt élőhelyeket is folyamatosan figyelemmel kísérjük. Megfigyeléseink egy részét vadkamerákkal végezzük, de nagy hangsúlyt fordítunk a személyes terepi megfigyelésekre is. Terepi bejárásaink folyamán fajlistákat készítünk, de sok esetben pedig egy-egy kulcsfaj jelenlétét is rögzítjük.
+!q:
+pict:2.jpg
+title:Kutatás
+content:
+A monitoring, szakértői konzultációk és szakirodalmak az esetek többségében megfelelő mennyiségű és minőségű információt nyújtanak annak eldöntéséhez, hogy az adott területen milyen mértékű és irányú természetvédelmi kezelést valósítsunk meg. Ugyanakkor kevésbé kutatott kérdésekkel is foglalkozunk, amelyek rengeteg terepmunkát igényelnek.
+!q:
+pict:3.jpg
+title:Rehabilitáció
+content:
+A vizes élőhelyek esetében elsősorban olyan területekre koncentrálunk, amelyek jó eséllyel rehabilitálhatóak. Egy-egy élőhely rehabilitációja kisebb beavatkozást és nagyobb esélyű fennmaradást jelent, mint egy olyan vizes élőhely helyreállítása, amelynek már a nyomai is alig ismerhetőek fel  (rekonstrukció).
+!q:
+pict:4.jpg
+title:Élőhelykezelés
+content:
+Célzott kezeléseket erősen leromlott állapotú élőhelyeken végzünk, ahol az adott beavatkozás nélkül akár több évszázadba is telhet a természetközeli állapot kialakulása. Szükség lehet az inváziós növényfajok célzott visszaszorítására, vízkormányzásra, a partfalak alakítására, vagy egy-egy növényfaj betelepítésére.
+!q:
+pict:5.jpg
+title:Akciók
+content:
+Önkénteseink és a lakosság bevonásával környezetvédelmi, fajvédelmi, illetve élőhelyvédelmi akciókat szervezünk, ezen túlmenően élőhelyfejlesztést is végzünk. Szemétszedő akcióink során az emberi eredetű szennyezések hatásait is bemutatjuk, odúzó napjainkon pedig az erdei élőhelyeket és azok állatvilágát igyekszünk minél gyakorlatiasabban megismertetni.
+!q:
+pict:6.jpg
+title:Képviselet
+content:
+Fontosnak tartjuk, hogy egy természetvédelmi szempontból jelentős terület továbbra is elsősorban természetvédelmi kezelést kapjon, kiállunk az ökológiai folyosók megteremtése és védelme mellett, továbbá támogatjuk a fogyasztás csökkentésére irányuló kezdeményezéseket is.
+!q:
+pict:7.jpg
+title:Szemléletformálás
+content:
+A természetközeliség és a természet védelmére irányuló magatartás a természeti környezet közvetlen megtapasztalása révén alakul ki. Ezért a vadonnal történő találkozásokat célzó, kisebb és nagyobb csoportos terepi programokat tartunk életkori korlátozás nélkül. Ismeretterjesztő előadásainkat óvodákba, iskolákba, táborokba is elvisszük.
+!q:
+pict:8.jpg
+title:Tanösvények
+content:
+Természetvédelmi célú és témájú tanösvényeket tervezünk és alakítunk ki, az útvonal kijelölésétől, a táblák tartalmának összeállításán és grafikai tervezésén keresztül, egészen a táblák kihelyezéséig.
+!q:
+pict:9.jpg
+title:Tanácsadás
+content:
+Valójában nem bizonyos fajok és azok egyedei, hanem mi magunk vagyunk konfliktusosak, és nem számukra, hanem számunkra nehéz az egymás mellett élés. Ugyanakkor ezt a szomszédságot is békéssé lehet varázsolni. Ehhez azonban szükséges az életünket „megkeserítő” faj, valamint a lehetséges természetkímélő megoldások ismerete.
+!q:

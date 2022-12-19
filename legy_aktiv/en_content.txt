@@ -1,0 +1,40 @@
+﻿content:
+Any action in favour of nature conservation will have an effect.  It does not need to be a large scale project; even one small step will help our natural environment.  Many people taking small steps will add up to huge achievements.
+You can take actions on your own and they can lead to a daily routine.  Collect some trash on each one of your forest walks; even if you pick up only a few plastic strands, you have likely saved the life of several bird chicks.
+!q:
+tiles:
+pict:1.jpg
+title:Collect it!
+content:
+Every piece of plastic left in nature has several outcomes for the future. It can end up in a bird-nest where it poses danger to a chick. It may be eaten by herbivores grazing in a field. Or it can drift into a nearby wetland and entangle the leg of a turtle trying to get out on a fallen tree-branch. Each plastic bag, tin can, broken bottle or piece of polystyrene removed from nature will save lives.
+!q:
+pict:2.jpg
+title:Record it!
+content:
+Conservation work is based on data, knowing the exact location of natural values. You can take part by documenting your observations:  the type of protected flora and fauna, the exact place, date and circumstances.  Your findings can be submitted to those dealing with nature conservation. (For instance the WildWatcher Center: vadonleső.hu.)
+!q:
+pict:3.jpg
+title:Observe it!
+content:
+Experiencing the wildlife living in your immediate environment, the birds and insects in your garden,  is best served through observing without disturbing.  Quiet nondisruptive watching can help you find bird nests, reptile eggs and make sure the offspring will start their lives safely.
+!q:
+pict:4.jpg
+title:Take photos!
+content:
+Share the wonders of nature with your friends, colleagues, relatives, or worldwide. Nature photography is likely to turn people into nature conservationists, advocates, activists.  What is more, it can serve as a proof in the search for new spaces to be protected.
+!q:
+pict:5.jpg
+title:Save it!
+content:
+Should you find an animal in trouble, try to help! Every one of our frogs, birds and insects matters because large numbers become victims of vehicle traffic, swimming pools, concrete canals.  If you cannot easily do it on your own, call a rescue organization for help or advice!
+!q:
+pict:6.jpg
+title:Organize events!
+content:
+Protecting nature is not limited to garbage-collection.  Create flowery patches for bees, install information boards about nearby bird species, provide nesting boxes or birdbaths, plant native trees instead of invasive species.
+!q:
+pict:7.jpg
+title:Speak up!
+content:
+Nature conservation work needs massive social backing to succeed. It must be undisputedly recognized that no hotels and industrial parks should be built on environmentally important areas. For this we need many supporters who are ready to take the floor and speak up.
+!q:

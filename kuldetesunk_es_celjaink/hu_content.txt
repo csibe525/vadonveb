@@ -1,0 +1,38 @@
+﻿content:
+A Talpalatnyi Vadon Alapítvány a természet sokszínűségének megőrzéséért dolgozik a természetközeli és zavartalan élőhelyek védelmén, összekapcsolásán, élőhelyek helyreállításán, területek visszavadításán keresztül.
+Az emberiség környezetátalakító tevékenysége olyan mértéket öltött, ami a vadvilág szempontjából drasztikus élőhely-veszteséggel, ezzel együtt számos faj állományának jelentős csökkenésével, vagy eltűnésével jár. A Föld élővilágának diverzitása rohamosan csökken. Az emberiség túlnépesedett, és bármit is teszünk, mindenhez nagy felelősség társul.
+Meggyőződésünk, hogy ma már nem elég a megmaradt élőhelyek és vadon védelme. Szükséges, hogy visszaadjunk abból, amit elvettünk: élőhelyeket kell létrehoznunk, rehabilitálnunk, vagy csak hagynunk, hogy újra benépesüljenek a korábban általunk használt területek. Ezeket az újonnan visszaadott területeket pedig összefüggővé kell tennünk, ugyanis az egyes fajok populációi elszigetelten nem sokáig maradhatnak fenn.
+Hisszük, hogy bármilyen aprócska is egy visszaadott terület, mégis minden vadon számít!
+Célunk annak tudatosítása, hogy a természeti környezet változatosságának, zavartalanságának fennmaradása nem csak esztétikai és etikai kérdés, hanem szükségszerűség a földi környezeti rendszerek kiegyensúlyozott működése szempontjából.
+!q:
+tiles:
+pict:1.jpg
+title:Megőrzés
+content:
+Kevés természetközeli folt maradt. Ezek fennmaradása, megőrzése rendkívül nagy kihívás, nem csak a klímaváltozás, hanem az emberi tevékenységek tovagyűrűző, összetett, kiszámíthatatlan hatásai miatt is. A mezőgazdaság és az ipar területigénye is növekszik, a természetvédelmi szempontok érvényesítése alulmarad.
+!q:
+pict:2.jpg
+title:Diverzitás
+content:
+A változatos élővilág, tagjainak bonyolult kapcsolati hálója csak azokon a területeken maradhat fenn, amelyeket az ember még nem alakított át. A természetközeli élőhelyek megőrzésével célunk diverzitásuk fennmaradásának biztosítása. Bolygónk élővilágának jelenlegi változatossága elképesztően hosszú együttfejlődés eredménye, aminek megőrzése minden ember feladata. 
+!q:
+pict:3.jpg
+title:Visszavadítás
+content:
+A visszavadításnak több típusa is lehet, a cél minden esetben az, hogy a természet maga végezze el a feladat oroszlánrészét. Természetvédelmi kezelést olyan helyeken végzünk, ahol valamilyen oknál fogva az adott helyzet konzerválása, ezzel a zárótársulás kialakulásának akadályozása a cél.
+!q:
+pict:4.jpg
+title:Védelem
+content:
+A fajok csak élőhelyükkel együtt védhetőek meg. A visszavadításra szánt területek esetében igyekszünk legalább a helyi védettséget megszerezni, annak érdekében, hogy hosszú távon is biztosítsuk az adott élőhely fennmaradását, élővilágának zavartalan fejlődését.
+!q:
+pict:5.jpg
+title:Ökológiai folyosók
+content:
+A természet számára visszaadott területek összekapcsolása biztosítja a védendő fajok populációinak hosszú távú fennmaradását, ráadásul a folyosók az összes többi, az adott ökoszisztémában nélkülözhetetlen faj egyedei számára is biztonságos és szabad mozgást biztosítanak.
+!q:
+pict:6.jpg
+title:Társadalmasítás
+content:
+Célunk, hogy minél többen felismerjék: az ember csak saját tevékenységeinek és fogyasztásának korlátozásával tudja lassítani az élővilág diverzitásának csökkenését, az élőhelyek pusztulását. A környezeti rendszerek egyensúlya csak úgy állítható vissza, ha mindenki önkéntes és tevőleges szerepet vállal a környezetvédelemben.
+!q:

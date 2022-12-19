@@ -1,0 +1,66 @@
+﻿content:
+Humans consider animal species we have trouble with to be nuisances, when in fact we are the invasive ones. Cohabitation is difficult for us, not them. We use resources excessively, crowding out species from their original habitat. Opportunistic species adapt quickly, often changing their food source and even behaviour to thrive in the human occupied environment.
+Most conflicts can be avoided or resolved: all we need is to guide our guest’s activities using their natural behaviour to redirect their activities such that we will not disturb each other.
+For this, it is essential to know our neighbours and the motivations that drive the little (or big) fellow to our garden or agricultural land.
+!q:
+tiles:
+pict:1.jpg
+title:Beavers
+content:
+Tree-cutting, canalisation, damming, flooding. It is becoming more common that we meet beavers in human-inhabited areas, near channels or watercourses. Their activity can be damaging and can even cause financial losses. However, the beaver is protected, and its engineering has a huge positive ecological impact. Beaver management therefore needs cautious research before action is taken.
+!q:
+pict:2.jpg
+title:Otters
+content:
+Otters living in nearby ponds, natural lakes and rivers are likely to appear in decorative garden fishponds. If we would like to assure the survival of our fish, we’d better surround the pond with an electric fence. Cayenne pepper sprinkled on the ground has also been known to keep them away – they dislike the hot spice odor. Otters are strictly protected and cannot be trapped or killed.
+!q:
+pict:3.jpg
+title:Dormice
+content:
+Suburban neighbourhoods near wooded areas often have their buildings occupied by dormice (commonly Edible, sometimes Hazel dormouse). In addition to their noisy nature, they tend to chew all available material for their nest. All dormouse species are protected; therefore, you will need permits for capturing them. To encourage their moving outdoors, build a comfortable insulated nesting box.
+!q:
+pict:4.jpg
+title:Beech marten
+content:
+Beech marten chewing is annoying in our car’s engine compartment, but the animal’s presence can also be useful. If a beech marten appears in the attic or in the garden shed, it is an indicator that there are smaller rodents around. Once the marten finishes pest-control, it will move on.
+!q:
+pict:5.jpg
+title:Fox
+content:
+By eradicating their natural food-sources (using chemical pest-control on agricultural lands) and producing so much kitchen waste, we ourselves have guided foxes to human settlements and our own gardens. We can prevent damage from foxes by installing sturdier poultry houses and by throwing away far less food waste.
+!q:
+pict:6.jpg
+title:Starlings
+content:
+Monoculture crops are developed to grow food in a concentrated manner and in huge quantities. It is therefore quite natural that herbivores or fruit-eaters are also present in large numbers. To avoid this, we should transform monocultural lands into a diverse, mosaic-like landscape with plant associations, buffer zones and hedges, which will also result in a more sound and healthy harvest.
+!q:
+pict:7.jpg
+title:Sparrows
+content:
+Sparrows effectively control the population of mosquitoes and flies around the house, which is a benefit to humans. But when we watch sparrows, our perception is that they are bullying the other birds and we may chase them away from feeders. In reality, like all other finches, sparrows crumble seeds while sitting at the feeder. Other species such as tits need to find a tool, so they just take a seed and fly away.
+!q:
+pict:8.jpg
+title:Woodpeckers
+content:
+There are a variety of effective methods to prevent woodpeckers’ destructive activities on our house. Motion or sound will keep them away: pinwheels, shiny objects or wind chimes can work. We can also redirect their interest away from the building by installing decaying tree trunks in the garden. By doing this, we can also secure them an appropriate food-source. What is more, we can more easily observe their activities.
+!q:
+pict:9.jpg
+title:Swallows
+content:
+The presence of swallows results in mosquito-free gardens. Prevent the mess they leave on our doorsteps with the installation of a plank or ledge below the swallow nest. We can encourage their nesting by creating small mud collection areas and ponds. Having swallows in large numbers is a better alternative to chemical insect-control, which is lethal for several other insects and amphibians.
+!q:
+pict:10.jpg
+title:Wasps
+content:
+Instead of using chemicals, a more environmentally friendly solution is to direct wasps to alternative nesting sites. Installing prebuilt wasp-hotels or simple brick-piles in sunny, but less used parts of our garden. Wasps are predators and have a role in controlling the stocks of other insects.
+!q:
+pict:11.jpg
+title:Mosquitos
+content:
+If we would like to get rid of mosquitos, it is important to attract their predators: birds, wasps, bats, frogs and reptiles. Creating ponds and wetlands will not multiply the stocks of mosquitos, as the diversity of those hunting these unpopular fellows will increase more significantly.
+!q:
+pict:12.jpg
+title:Bats
+content:
+Messy porches by bats can be prevented if we install special nesting and daylight resting boxes for them. The ideal site for a bat-box is a sheltered, shadowy angle of the garden at a height of 4-5 meters. Bats eat mosquitos and other insects from early spring until late autumn and in addition attract owls hunting for them.
+!q:
